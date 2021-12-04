@@ -1,0 +1,20 @@
+html> 
+ <head> 
+ <title>styl zewnetrzny</title> 
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+ <!--    zewnetrzne         --> 
+             <LINK href="mark_z5_2.css" rel="stylesheet" type="text/CSS"> 
+ </head> 
+ <body bgcolor="silver"> 
+  <p> <h1> Markowski-Z5-zewnętrzny </h1> </p>
+  <p> Markowski - HTML jest językiem znaczników (ang. markup language). </p>
+	   <!-- 3.12.2021 Markowski -->
+      </body> 
+</html>
+
+
+h1  { 
+ color:    purple; 
+ font-size:  54 px; 
+ /* 3.12.2021 Markowski */
+       }

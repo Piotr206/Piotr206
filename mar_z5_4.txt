@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>styl liniowy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- liniowy  -->
+</head>
+<body bgcolor="silver">
+<p> <h1 style="color: green
+;font-size: 44 px;"> Markowski-Z5-liniowy</h1> </p>
+      <p> Markowski -C++ to język programowania ogólnego przeznaczenia. Język został zaprojektowany przez Bjarne Stroustrupa jako </p> 
+	 <p> rozszerzenie języka C o obiektowe mechanizmy abstrakcji danych i silną statyczną kontrolę typów.Zachowanie zgodności </p>
+	<p>  z językiem C na poziomie kodu źródłowego pozostaje jednym z podstawowych celów projektowych kolejnych standardów języka.</p>
+ 	   <!-- 3.12.2021 Markowski -->
+ </body>
+</html>

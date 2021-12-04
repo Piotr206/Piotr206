@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>styl wewnetrzny</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- wewnetrzny    -->
+ <style>
+ h1 {
+ color: green;
+ font-size: 64px;
+ }
+</style>
+</head>
+<body bgcolor="silver">
+ <p> <h1> Markowski-Z5-wewnętrzny </h1> </p>
+      <p> Markowski - HTML to kod używany do tworzenia struktury strony i jej zawartości. </p>
+ 	   <!-- 3.12.2021 Markowski -->
+ </body>
+</html>
