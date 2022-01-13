@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+ @import url("ZAD13.css");
+ @import url("ZAD131.css");
+</style>
+</head>
+<body>
+<p>:O - zdziwienie </p>
+:P - wytkniety jezyk
+<p>UwU - wesoła twarz</p>
+:( - niezadowolenie
+<p>:# - zamkniete usta</p>
+:D - duze zadowolenie
+</body>
+</html>
+
+css:
+
+body{
+	font-size: 49pt;
+    color:blue;
+}
+
+
+
+p{
+	font-size: 39pt;
+    color:green;
+}
