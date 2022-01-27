@@ -1,5 +1,5 @@
 html:
-<meta charset="utf-8">
+
 <html>
 <head>
 <style>
@@ -10,7 +10,7 @@ html:
 <body>
 <p>:O - zdziwienie </p>
 :P - wytkniety jezyk
-<p>UwU - wesoła twarz</p>
+<p>UwU - wesola twarz</p>
 :( - niezadowolenie
 <p>:# - zamkniete usta</p>
 :D - duze zadowolenie
