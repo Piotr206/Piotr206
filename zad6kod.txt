@@ -1,0 +1,33 @@
+html:
+
+<html>
+<head>
+<style>
+ @import url("mark_z6.css");
+ @import url("mark_z61.css");
+</style>
+</head>
+<body>
+<p>:O - zdziwienie </p>
+:P - wytkniety jezyk
+<p>UwU - weso³a twarz</p>
+:( - niezadowolenie
+<p>:# - zamkniete usta</p>
+:D - duze zadowolenie
+</body>
+</html>
+
+css1:
+
+body{
+	font-size: 30pt;
+    color:blue;
+}
+
+css2:
+
+p{
+
+	font-size: 20pt;
+    color:green;
+}
