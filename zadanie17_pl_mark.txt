@@ -4,13 +4,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body bgcolor="red">
-<div> <!-- pocz¹tek bloku DIV -->
+<div> <!-- poczatek bloku DIV -->
 <p style="font-family: Arial, Helvetica, sans-serif; font-size: 40px;">
-styl wpisany wielkoœci¹ 40 pikseli</p>
-<p>styl wpisany wieloœcia standardowa z u¿yciem znacznika -->p</p>
+styl wpisany wielkoscia 40 pikseli</p>
+<p>styl wpisany wielkoscia standardowa z uzyciem znacznika -->p</p>
 <span style="font-family: Arial, Helvetica, sans-serif; font-size: 25px;">
 styl wpisany wielkosc 25 pikseli</span> <br>
-<span>styl wpisany wieloœci¹ standardow¹-->span</span>
+<span>styl wpisany wieloscia standardowa-->span</span>
 </div> <!-- koniec bloku DIV -->
 </body>
 </html>
