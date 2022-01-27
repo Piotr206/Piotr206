@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+ @import url("mark_15.css");
+</style>
+</head>
+<body>
+<p>:O - zdziwienie </p>
+:P - wytkniety jezyk
+<p>UwU - wesola twarz</p>
+:( - niezadowolenie
+<p>:# - zamkniete usta</p>
+:D - duze zadowolenie
+</body>
+</html>
+
+css:
+
+
+body{
+	font-size: 30pt;
+    color:#3B5ACD;
+}
+
+p{
+
+	font-size: 20pt;
+    color:#69B05A;
+}
