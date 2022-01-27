@@ -1,8 +1,8 @@
 <div style="background-color:yellow">
 <span style="color:red">
-<b>To jest pogrubienie w ramach DIV oraz SPAN i dlatego jest czerwone na ¿ó³tym tle</b>,
-a to jest zwyk³y tekst - równie¿ wewn¹trz DIV i SPAN.
+<b>To jest pogrubienie w ramach DIV oraz SPAN i dlatego jest czerwone na zÃ³ltym tle</b>,
+a to jest zwykly tekst - rÃ³wnieÂ¿ wewnatrz DIV i SPAN.
 </span>
-To jest zwyk³y tekst, ale tylko wewn¹trz DIV - dlatego nie jest czerwony, ale ma ¿ó³te t³o.
+To jest zwykly tekst, ale tylko wewnatrz DIV - dlatego nie jest czerwony, ale ma zÃ³lte tlo.
 <p>A to jest akapit (element blokowy) w ramach DIV.</p>
 </div>
