@@ -1,0 +1,39 @@
+<html>
+ <head>
+ <style>
+ p { font-size: 20; color: orange; font-style: arial; }
+ i { font-size: 20; color: green;  }
+ strike { font-size: 20; color: red; }
+ u { font-size: 20; color: purple; text-decoration: overline;  }
+ h1 { font-size: 30; color: blue; text-decoration: underline; }
+ </style>
+ </head>
+  <body>
+  
+<div style="background-color: #FFFDD0"; width: 100% ;height: 40%>
+ <p> Internetem stacjonarnym jest nazywane stałe łącze domowe,</p>
+ <p>którego główną zaletę stanowi możliwość korzystania z sieci bez limitu danych.</p>
+ <p>Nie trzeba dzięki temu kontrolować poziomu zużycia transferu,</p>
+ <p>bez względu na czas czy sposób korzystania z sieci.</p>
+ <p>Stacjonarne łącze może być przewodowe lub bezprzewodowe.</p>
+</p>
+ </div>
+ <div style="background-color: #FF00FF"; width: 80% ;height: 15%>
+ <i><b>Jaka jest różnica między div a span?</b><i>
+<strike>div jest to element blokowy, którego szerokość wynosi 100%</strike>
+ <u>natomiast tag span jest to element inline który można np. 
+ wstawić wewnątrz tekstu.
+ Będzie się on zachować jak tekst</u>
+ </div>
+ <div style="background-color: #00FF7F"; width: 100% ;height: 30%>
+ <h1>Rodzaje połączeń stacjonarnych internetu</h1>
+ <ol>
+<li style="color: blue; size: 25px ">Telefoniczne łącze przewodowe DSL lub ADS</li>
+<li style="color: red; size: 30px ">Kablowy internet stacjonarny LAN</li>
+<li style="color: gray; size: 35px ">Łącze światłowodowe</li>
+<li style="color: blue; size: 25px ">Sieć radiowa i satelitarna</li>
+</ol>
+ </div>
+  </body> 
+</html>
+<!-- Piotr Markowski --!>
