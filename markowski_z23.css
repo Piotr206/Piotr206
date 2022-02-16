@@ -1,0 +1,53 @@
+p#pogrubienie_markowski {
+	
+font-size: 34px;	
+font-weight: bolder;
+color: #975ACE;
+	
+}
+
+p#pochylona_markowski {
+	
+font-size: 39;
+color: #FBBE6A;
+font-style: italic;
+	
+}
+
+p#index_gorny_markowski {
+	
+font-size: 1.4cm;
+color: #AB8C1A;
+vertical-align: super;
+
+	
+}
+
+p#index_dolny_markowski {
+	
+color: #47F06A;
+font-size: 2.3cm;
+vertical-align: sub;
+	
+}
+
+p#mono_markowski {
+	
+color: #35DC69;
+font-size: 44px;
+	
+}
+
+p#powiekszenie_markowski {
+	
+color: #653C9C;
+font-size: larger;
+	
+}
+
+p#pomniejszenie_markowski {
+	
+color: #C9A038;
+font-size: x-small;
+	
+}

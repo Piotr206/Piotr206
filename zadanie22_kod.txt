@@ -1,0 +1,44 @@
+<html>
+
+<head>
+
+<link href="markowski_z22.css" rel="stylesheet" type="text/CSS"> 
+
+</head>
+
+<body>
+
+<p> Markowski, Komputer. W 1883 roku angielski wynalazca, Charles Babbage zaprojektował maszynę liczącą – niedocenioną w swoich czasach i nazwaną “ot, jeszcze jedną zabawką” uważaną dziś za pierwszy komputer. Za to oficjalnie pierwszym komputerem był Eniac. Eniac to komputer skonstruowany w latach 1943-1945 przez J.P. Eckerta i J.W. Mauchky'ego na Uniwersytecie w Pensylwanii w USA. Zajmował 140 m2, ważył prawie 50 ton ,składał się z 18000 lamp elektronowych i służył celom obliczeniowym, bez możliwości przechowywania danych. </p> <br>
+<p id="gruby_markowski"> Markowski, Pierwszy komercyjny laptop. Pierwszym oferowanym komercyjnie laptopem, który mieścił się w torbie, był Grid Compass Computer 1109. W roku 1979 zaprojektował go William Moggridge dla Grid Systems Corporation. Komputer ten był używany w programie NASA dotyczącym promów kosmicznych we wczesnych latach 80. </p> <br>
+<h1 id="dlawszystkich_markowski"> Markowski, Mysz komputerowa. W 1952 roku na potrzeby kanadyjskiej marynarki wojennej zostaje skonstuowany trackball. Bazując na technologii używanej w trackballu, w 1963 roku Douglas Engelbart stworzył prototyp obecnej myszy, był to drewniany przyrząd z dwoma kołami zębatymi, umieszczonymi prostopadle do siebie. Pozwalało to na ruch względem tylko dwóch osi. </h1> <br>
+<div id="dlawszystkich_markowski"> Markowski,  Internet został opracowany w Stanach Zjednoczonych przez „Agencję Zaawansowanych Projektów Badawczych Departamentu Obrony Stanów Zjednoczonych”. Po raz pierwszy został połączony w październiku 1969 roku i nosił nazwę ARPANET. </div> <br>
+
+
+</body>
+
+</html>
+
+css
+
+p {
+
+color: red;
+font-size: 22pt;
+
+}
+
+p#gruby_markowski {
+
+color: green;
+font-size: 17pt;
+font-weight: bolder;
+
+}
+
+#dlawszystkich_markowski {
+
+color: yellow;
+font-size: 10pt;
+font-family: Arial;
+
+}

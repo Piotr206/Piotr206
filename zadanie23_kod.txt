@@ -1,0 +1,86 @@
+<html>
+<head>
+<link href="markowski_z23.css" rel="stylesheet" type="text/CSS"> 
+</head>
+<body>
+Markowski <br>
+<p id="pogrubienie_markowski"> Jest impreza u informatyków, wódka leje się szerokimi pasmami. Dwóch hackerów pije bruderszafta.<br>
+- To co? Mówmy sobie po IP </p> <br>
+Markowski <br>
+<p id="pochylona_markowski"> Dzieci piszą wypracowanie o tym, jak wyobrażają sobie pracę informatyka.<br>
+Nie pisze tylko Karol.<br>
+- Dlaczego nie piszesz? - pyta go nauczycielka. <br>
+- Czekam, aż mi się otworzy edytor tekstu. </p> <br>
+Markowski <br>
+<p id="index_gorny_markowski"> Co robi informatyk budząc się na kacu? <br>
+Testuje pamięć <br>
+<p id="index_dolny_markowski"> - Dzień dobry, chciałbym się u państwa zatrudnić jako specjalista od bezpieczeństwa <br>
+- Przykro mi, ale nie potrzebujemy kogoś takiego <br>
+- No jak Pan uważa. W razie czego moje CV ma pan na pulpicie.</p> <br>
+Markowski <br>
+<p id="mono_markowski">Co mówi ksiądz na ślubie informatyka. <br>
+-Zakończono pobieranie </p> <br>
+Markowski <br>
+<p id="powiekszenie_markowski"> Co mówi informatyk, kiedy dostanie na urodziny pendrive? <br>
+Dzięki za pamięć. </p> <br>
+<p id="pomniejszenie_markowski"> Co pisze na grobie maniaka komputetowego? <br>
+- GAME OVER</p>  <br>
+</body>
+</html>
+<!-- Piotr Markowski -->
+
+css
+
+p#pogrubienie_markowski {
+	
+font-size: 34px;	
+font-weight: bolder;
+color: #975ACE;
+	
+}
+
+p#pochylona_markowski {
+	
+font-size: 39;
+color: #FBBE6A;
+font-style: italic;
+	
+}
+
+p#index_gorny_markowski {
+	
+font-size: 1.4cm;
+color: #AB8C1A;
+vertical-align: super;
+
+	
+}
+
+p#index_dolny_markowski {
+	
+color: #47F06A;
+font-size: 2.3cm;
+vertical-align: sub;
+	
+}
+
+p#mono_markowski {
+	
+color: #35DC69;
+font-size: 44px;
+	
+}
+
+p#powiekszenie_markowski {
+	
+color: #653C9C;
+font-size: larger;
+	
+}
+
+p#pomniejszenie_markowski {
+	
+color: #C9A038;
+font-size: x-small;
+	
+}

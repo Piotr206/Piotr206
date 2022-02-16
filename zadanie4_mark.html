@@ -1,0 +1,55 @@
+<html> 
+<head>
+</head>
+<body>
+<h1> Sposoby podłączania styli do strony (skrócone zestawienie): </h1> 
+<br>
+<h2> 1)<u>Zewnętrzny</u> arkusz stylów </h2>
+<table border="1">
+<tr><td> 
+< head><br>
+< link rel="Stylesheet" type="text/css" href="style.css" /> <br>
+< /head><br>
+</td></tr>
+</table> 
+<br>
+<h2> 2)Styl <u>lokalny</u> inaczej: (styl wpisany, liniowy, linijkowy, w linii) czyli dopisanie arkusza do wybranego bloku treści strony </h2>
+<table border="1">
+<tr> <td>  <br>
+< selektor style="cecha1: wartość1; cecha2: wartość2...">...< /selektor> <br>
+</td></tr><br>
+</table> 
+<br>
+<h2> 3)<u>Wewnętrzny</u> arkusz stylów </h2>
+<table border="1">
+<tr><td> 
+< head> <br>
+ < style type="text/css"> <br>
+ selektor1 { cecha: wartość; cecha2: wartość2... } <br>
+ selektor2 { cecha: wartość; cecha2: wartość2... } <br>
+ < /style> <br>
+< /head> <br>
+</td> </tr>
+</table> 
+<br>
+<h2> 4)<u>Alternatywny</u> arkusz stylów </h2>
+<table border="1">
+<tr> <td> 
+< head> <br>
+< link rel="Stylesheet" type="text/css" href="style.css" title="Nazwa domyślna" /> <br>
+< link rel="Alternate stylesheet" type="text/css" href="style1.css" title="Nazwa 1" /> <br>
+< link rel="Alternate stylesheet" type="text/css" href="style2.css" title="Nazwa 2" /> <br>
+< /head> <br>
+</td> </tr>
+</table> 
+<br>
+<h2> 5)<u>Import</u> arkusza stylów </h2>
+<table border="1"> 
+<tr> <td> 
+< style type="text/css"> <br>
+  @import url(adres zewnętrznego arkusza stylów); <br>
+< /style> <br>
+</td> </tr>
+</table>
+</body>
+</html>
